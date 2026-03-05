@@ -8,7 +8,7 @@ function add7(){
 
 
 
- 
+
  let g, h;
  g = parseInt(prompt("pls, enter the first number"));
  h = parseInt(prompt("pls, enter the second number"));
